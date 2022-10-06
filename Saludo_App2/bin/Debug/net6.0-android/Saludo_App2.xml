@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Saludo_App2</name>
+    </assembly>
+    <members>
+        <member name="P:Saludo_App2.ViewModel.GreetingViewModel.Text">
+            <inheritdoc cref="F:Saludo_App2.ViewModel.GreetingViewModel.text"/>
+        </member>
+        <member name="F:Saludo_App2.ViewModel.GreetingViewModel.goBackCommand">
+            <summary>The backing field for <see cref="P:Saludo_App2.ViewModel.GreetingViewModel.GoBackCommand"/>.</summary>
+        </member>
+        <member name="P:Saludo_App2.ViewModel.GreetingViewModel.GoBackCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:Saludo_App2.ViewModel.GreetingViewModel.GoBack"/>.</summary>
+        </member>
+        <member name="P:Saludo_App2.ViewModel.MainViewModel.Text">
+            <inheritdoc cref="F:Saludo_App2.ViewModel.MainViewModel.text"/>
+        </member>
+        <member name="F:Saludo_App2.ViewModel.MainViewModel.sendCommand">
+            <summary>The backing field for <see cref="P:Saludo_App2.ViewModel.MainViewModel.SendCommand"/>.</summary>
+        </member>
+        <member name="P:Saludo_App2.ViewModel.MainViewModel.SendCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:Saludo_App2.ViewModel.MainViewModel.Send"/>.</summary>
+        </member>
+    </members>
+</doc>
